@@ -1,12 +1,33 @@
+# 👩‍💻 Bhavana Jonna – QA Engineer Portfolio
+
+Welcome to my QA project portfolio! This repository showcases real-world testing projects that reflect my hands-on experience in **API automation**, **manual testing**, **test planning**, and **reporting**.
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Projects
 
-📧 Email: [jbhavana1606@gmail.com](mailto:jbhavana1606@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/bhavana-jonna)  
-💻 [GitHub](https://github.com/Bhavana-Jonna)
+### 🔐 UserAuth API Test Suite
+A Postman-based API automation suite for user authentication features like registration, login, and user updates.  
+✔️ Built using: **Postman**, **Newman**, **Reqres API**  
+✔️ Validates happy paths, error handling, and edge cases  
+✔️ Includes HTML reports, test documentation, and bug tracking
+
+📁 Folder: `postman_collection/`  
+📄 Test Plan: `docs/TestPlan.md`  
+🐞 Bug Report: `docs/BugReport.md`
 
 ---
 
-*Let’s build and break — then test it better!* 💥
+## 🛠 Tools & Skills
+
+- Postman | RestAssured | Newman | Selenium  
+- API Testing | Functional Testing | Gray-Box Testing  
+- CI-ready test automation  
+- Test Plan, Test Cases, Defect Reporting  
+- Git & GitHub Version Control  
+
+---
+
+
+
+
