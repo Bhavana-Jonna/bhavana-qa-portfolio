@@ -1,3 +1,8 @@
+![Postman Tested](https://img.shields.io/badge/Tested%20with-Postman-orange)
+![API Testing](https://img.shields.io/badge/API%20Tested-REST%20API-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 # 👩‍💻 Bhavana Jonna – QA Engineer Portfolio
 
 Welcome to my QA project portfolio! This repository showcases real-world testing projects that reflect my hands-on experience in **API automation**, **manual testing**, **test planning**, and **reporting**.
